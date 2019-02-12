@@ -1,0 +1,848 @@
+
+.adminka  a  {
+    font-size: 22px;
+    color: #000;
+    margin-left: 30px;
+    padding-top: 10px;
+
+}
+
+.adminka {
+    background: #0b6d60;
+    border-radius:5px ;
+    padding-right: 30px;
+    padding-left: 0px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 40px;
+}
+
+
+
+.avapost    {
+    width: 220px;
+    height: 140px;
+
+}
+
+
+.chpass a{
+
+    text-decoration: none;
+    outline: none;
+    display: block;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #0b6d60 0%, #3f9386 51%, #0b6d60 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 40px rgba(0,0,0,.1);
+    transition: .5s;
+    border: 2px solid white;
+    font-size: 6px;
+}
+.chpass  a:hover {background-position: right center;}
+
+
+.chpass {
+    border-radius:5px ;
+    padding-right: 30px;
+    padding-left: 0px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+.chpass a   {
+    font-size: 14px;
+     padding-top: 10px;
+}
+
+.logout a{
+    text-decoration: none;
+    outline: none;
+    display: block;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #0b6d60 0%, #3f9386 51%, #0b6d60 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 40px rgba(0,0,0,.1);
+    transition: .5s;
+    border: 2px solid white;
+    font-size: 6px;
+}
+.logout  a:hover {background-position: right center;}
+
+.logout {
+    border-radius:5px ;
+    padding-right: 30px;
+    padding-left: 0px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+.logout a   {
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+
+.chava {
+    background: #0b6d60;
+    border-radius:5px ;
+    padding-right: 30px;
+    padding-left: 0px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+.chava a   {
+
+    font-size: 16px;
+    color: #fff;
+    margin-left: 30px;
+    padding-top: 10px;
+
+}
+
+.username   {
+    font-family: 'Arial','Helvetica','Tahoma', sans-serif;
+    font-size: 32px;
+    color: #5b5b5b;
+    margin-left: 20px;
+}
+
+.userprof   {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.myob a{
+
+    text-decoration: none;
+    outline: none;
+    display: block;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #0b6d60 0%, #3f9386 51%, #0b6d60 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 40px rgba(0,0,0,.1);
+    transition: .5s;
+    border: 2px solid white;
+    font-size: 6px;
+}
+.myob  a:hover {background-position: right center;}
+
+
+.myob   {
+
+    border-radius:5px ;
+    padding-right: 30px;
+    padding-left: 0px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.myob   a   {
+    font-size: 14px;
+    color: #fff;
+    margin-left: 30px;
+    padding-top: 10px;
+}
+
+.deletepost {
+margin-left: 70px;
+}
+
+.newpassword {
+
+}
+
+.oldpass  {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.newpasswordform    {
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.newpass    {
+    padding-bottom: 40px;
+}
+
+.passuccess {
+    border: 1px solid #ccc;
+    border-radius:5px ;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.zeroposts{
+    border: 1px solid #ccc;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#uploadImagesList {
+    list-style: none;
+    padding: 0;
+}
+#uploadImagesList .item {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+#uploadImagesList .item .img-wrap {
+    width: inherit;
+    display: block;
+    height: 100px;
+}
+#uploadImagesList .item .img-wrap img{
+    width: 220px;
+    height: 140px;
+}
+#uploadImagesList .item .delete-link {
+    cursor: pointer;
+    display: block;
+}
+.clear {
+    clear: both;
+}
+
+.inputimg   {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#addImages {
+    display: none;
+}
+
+label {
+    cursor: pointer;
+
+}
+#refresh    {
+    width: 220px;
+    height: 140px;
+}
+#imgavatar  {
+    width: 220px;
+    height: 140px;
+    margin-left: 20px;
+}
+
+.workwithuser{
+    margin-bottom: 10px;
+}
+
+
+.workwithposts{
+    margin-top: 10px;
+}
+
+.addimgrow {
+    border: 1px solid #ccc;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.thxmod {
+    text-align: center;
+}
+
+.noposts    {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.addnewpost {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.addnewuserposttext {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.addnewuserpostinput    {
+    text-align: center;
+
+}
+
+.addnewuserpostsubmit   {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.adminimgpost   {
+    width: 150px;
+    height: 150px;
+}
+
+.adminposts {
+    border: 1px solid #0b6d60;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.imgpost1{
+    width: 220px;
+    height: 140px;
+}
+
+.userframe {
+    border: 1px solid black;
+}
+
+.accepttext {
+    color: green;
+}
+
+.accepttext1   {
+    color: red;
+}
+
+.userpostcolm   {
+    text-align: center;
+}
+
+.comeback a{
+
+    text-decoration: none;
+    outline: none;
+    display: block;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #0b6d60 0%, #3f9386 51%, #0b6d60 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 40px rgba(0,0,0,.1);
+    transition: .5s;
+    border: 2px solid white;
+    font-size: 6px;
+}
+.comeback  a:hover {background-position: right center;}
+
+.comeback   {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+    border-radius:5px ;
+}
+.comeback   a {
+    font-size: 14px;
+    color: #fff;
+}
+.viewpostimg    {
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    padding-bottom: 10px;
+}
+
+.headerpost{
+    text-align: center;
+    font-size: 30px;
+    color:#0b6d60;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.viewposttext{
+
+    text-align: center;
+    margin-bottom: 10px;
+}
+.viewposttext1{
+
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.viewposttext2 a{
+
+    text-decoration: none;
+    outline: none;
+    display: block;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #0b6d60 0%, #3f9386 51%, #0b6d60 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 40px rgba(0,0,0,.1);
+    transition: .5s;
+    border: 2px solid white;
+    font-size: 14px;
+}
+.viewposttext2  a:hover {
+    background-position: right center;
+    transform: translateY(-7px);
+}
+
+
+.viewposttext2{
+
+    min-height: 2em;
+    text-align: center;
+margin-right: 10px;
+    margin-bottom: 6px;
+    display: block;
+}
+
+#call   {
+    text-decoration: none;
+    outline: none;
+    display: block;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #0b6d60 0%, #3f9386 51%, #0b6d60 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 40px rgba(0,0,0,.1);
+    transition: .5s;
+    border: 2px solid white;
+    font-size: 14px;
+
+}
+#call:hover {
+    background-position: right center;
+    transform: translateY(-7px);
+    cursor: pointer;
+}
+
+#calluser   {
+    text-decoration: none;
+    outline: none;
+    display: block;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #0b6d60 0%, #3f9386 51%, #0b6d60 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 40px rgba(0,0,0,.1);
+    transition: .5s;
+    border: 2px solid white;
+    font-size: 14px;
+
+}
+#calluser:hover {
+    background-position: right center;
+    transform: translateY(-7px);
+    cursor: pointer;
+}
+
+
+.viewposttext3 a{
+
+    text-decoration: none;
+    outline: none;
+    display: block;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #0b6d60 0%, #3f9386 51%, #0b6d60 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 40px rgba(0,0,0,.1);
+    transition: .5s;
+    border: 2px solid white;
+    font-size: 14px;
+}
+.viewposttext3  a:hover {
+    background-position: right center;
+    transform: translateY(-7px);
+}
+
+
+.viewposttext3{
+
+    min-height: 2em;
+    text-align: center;
+    margin-right: 10px;
+    margin-bottom: 6px;
+    display: block;
+}
+
+.telnumber {
+    text-decoration: none;
+    outline: none;
+    display: block;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background:#0b6d60 ;
+    border: 2px solid white;
+    font-size: 14px;
+    text-align: center;
+}
+
+.stic   {
+    position: sticky;
+    bottom: 0;
+  }
+
+.newpassubmit   {
+    margin-top: 10px;
+}
+
+#messages
+{
+    height:350px;
+    overflow:auto;
+    border:1px solid silver;
+    background: #fff;
+
+
+}
+
+.mymessage  {
+    text-align: start;
+    margin-left: 10px;
+    margin-top: 5px;
+    border:2px solid #0b6d60 ;
+    border-radius:5px ;
+    margin-right: 10px;
+}
+
+.hismessage{
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 5px;
+    border:2px solid #696969;
+    border-radius:5px ;
+}
+
+.ramka{
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    word-wrap: break-word;
+}
+
+.ramka1{
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    word-wrap: break-word;
+
+}
+
+.mydate {
+    text-align: start;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-right: 10px;
+
+}
+
+.hisdate{
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+#mess_to_send   {
+    margin-top: 10px;
+    width: 400px;
+    border:1px solid #696969;
+}
+
+.ram    {
+    color: #000;
+}
+
+.meslist a{
+
+    text-decoration: none;
+    outline: none;
+    display: block;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #0b6d60 0%, #3f9386 51%, #0b6d60 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 40px rgba(0,0,0,.1);
+    transition: .5s;
+    border: 2px solid white;
+    font-size: 6px;
+}
+.meslist  a:hover {background-position: right center;}
+
+
+.meslist    {
+    border-radius:5px ;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.error  {
+    margin-top: 200px;
+    margin-bottom: 200px;
+    text-align: center;
+}
+
+.fotorama   {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.corectemail    {
+    padding-bottom: 30px;
+}
+
+textarea {
+    width: 500px;
+    height: auto;
+}
+
+
+#uploadImagesList {
+    list-style: none;
+    padding: 0;
+}
+#uploadImagesList .item {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+#uploadImagesList .item .img-wrap {
+    width: inherit;
+    display: block;
+    height: 100px;
+}
+#uploadImagesList .item .img-wrap img{
+    width: auto;
+    height: inherit;
+}
+#uploadImagesList .item .delete-link {
+    cursor: pointer;
+    display: block;
+}
+.clear {
+    clear: both;
+}
+
+
+@media screen and (max-width: 1199px) {
+
+
+}
+
+
+
+@media screen and (max-width: 991px) {
+    .head   {
+        margin-bottom: 70px;
+    }
+    .newpasswordform {
+        margin-top: 20px;
+    }
+.zeroposts{
+    margin-top: 90px;
+}
+.admintext{
+    margin-left: 0px;
+}
+    #mess_to_send   {
+        width: 350px;
+    }
+    .listmescontainer   {
+        margin-top: 80px;
+    }
+
+    .comeback   {
+        margin-top: 40px;
+    }
+
+    .profilecontainer   {
+        padding-top: 30px;
+    }
+    .addimgrow {
+
+        margin-top: 120px;
+
+    }
+
+
+}
+
+
+@media screen and (max-width: 767px) {
+    .deletepost {
+        margin-left: 190px;
+    }
+    #mess_to_send   {
+        width: 310px;
+    }
+    .hismessage{
+        margin-left: 10px;
+    }
+
+}
+@media screen and (max-width: 575px) {
+
+    .fotorama   {
+        width: 240px;
+
+        }
+
+    .deletepost {
+        margin-left: 50px;
+        display: block;
+    }
+
+    .newpasswordform    {
+        border: none;
+        margin-left: 30px;
+    }
+
+    .zeroposts{
+        border: none;
+    }
+    .newpassword    {
+        text-align: center;
+    }
+
+    .oldpass    {
+
+        text-align: center;
+    }
+
+
+    .chpass a   {
+        font-size: 12px;
+    }
+
+    .chava a {
+        font-size: 15px;
+    }
+    .newpass    {
+        text-align: center;
+        padding-left: 0px;
+        padding-right: 0px;
+
+    }
+
+    .newpass1   {
+
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .newpass2   {
+        text-align: center;
+
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .addimgrow {
+        border: none;
+
+    }
+
+    .viewpostimg    {
+
+        width: 240px;
+        height: 240px;
+    }
+
+    #mess_to_send   {
+        width: 200px;
+    }
+
+    .ram    {
+        font-size: 15px;
+    }
+
+    .viewposttext2  {
+       padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    .viewposttext3  {
+        padding-right: 4px;
+        padding-left: 0px;
+    }
+
+#call   {
+    letter-spacing: 0px;
+padding-right: 0px;
+}
+    #calluser   {
+        letter-spacing: 1px;
+    }
+
+    textarea {
+        width: 280px;
+    }
+
+
+}
+
+
